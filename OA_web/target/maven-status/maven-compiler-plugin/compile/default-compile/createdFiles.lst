@@ -1,0 +1,7 @@
+com\wugecontroller\RoleController.class
+com\wugecontroller\UserController.class
+com\wugecontroller\Aop.class
+com\wugecontroller\PermissionController.class
+com\wugecontroller\ProductController.class
+com\wugecontroller\OrdersController.class
+com\wugecontroller\SysLogController.class

@@ -1,0 +1,9 @@
+com\wugeDomain\Member.class
+com\wugeDomain\Orders.class
+com\wugeDomain\Permission.class
+com\wugeDomain\UserInfo.class
+com\wugeDomain\Product.class
+com\wugeDomain\Role.class
+com\wugeDomain\SysLogContextUtils.class
+com\wugeDomain\SysLog.class
+com\wugeDomain\Traveller.class

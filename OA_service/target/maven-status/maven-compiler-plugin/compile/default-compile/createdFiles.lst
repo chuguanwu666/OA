@@ -1,0 +1,12 @@
+com\wugeService\SysLogService.class
+com\wugeService\impl\PermissionServiceImpl.class
+com\wugeService\PermissionService.class
+com\wugeService\impl\UserServiceImpl.class
+com\wugeService\impl\OrdersServiceImpl.class
+com\wugeService\impl\ProductServiceImpl.class
+com\wugeService\ProductService.class
+com\wugeService\impl\RoleServiceImpl.class
+com\wugeService\RoleService.class
+com\wugeService\impl\SyslogServiceImpl.class
+com\wugeService\OrdersService.class
+com\wugeService\UserService.class

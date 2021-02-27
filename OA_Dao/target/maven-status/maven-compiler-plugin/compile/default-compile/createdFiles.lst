@@ -1,0 +1,8 @@
+com\wugeDao\TravellerMapper.class
+com\wugeDao\UserMapper.class
+com\wugeDao\SysLogMapper.class
+com\wugeDao\OrdersMapper.class
+com\wugeDao\MemberMapper.class
+com\wugeDao\ProductMapper.class
+com\wugeDao\PermissionMapper.class
+com\wugeDao\RoleMapper.class
